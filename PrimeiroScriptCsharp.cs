@@ -15,16 +15,17 @@ public class PrimeiroScriptCsharp : MonoBehaviour
     GameObject Mochila;
     Rigidbody ComponenteDeFisica;
     Collider ComponenteDeColisao;
-    
+
     // Start é chamado um vez ao iniciar o jogo
     void Start()
     {
-        
+       
+
     }
 
     // Update é chamado a cada frame do jogo
     void Update()
     {
-        
+
     }
 }
